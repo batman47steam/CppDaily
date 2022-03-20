@@ -1,0 +1,8 @@
+*.a
+*.out
+*.exe
+
+List*
+
+#exclude cpp
+!*.cpp
